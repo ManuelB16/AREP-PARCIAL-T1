@@ -26,7 +26,6 @@ public class FacadeServer {
             System.err.println("Could not listen on port: 36000.");
             System.exit(1);
         }
-
         Socket clientSocket = null;
         boolean running = true;
         while (running) {
