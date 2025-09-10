@@ -1,4 +1,4 @@
-**Parcial Primer Corte AREP**
+*Parcial Primer Corte AREP*
 
 * Manuel Felipe Barrera
 ---
