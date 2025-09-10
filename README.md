@@ -1,6 +1,6 @@
-* Parcial Primer Corte AREP
+**Parcial Primer Corte AREP**
 
-** Manuel Felipe Barrera
+* Manuel Felipe Barrera *
 ---
 * Calculadora Web para estimar la media y la desviación estándar de un conjunto de números
 
