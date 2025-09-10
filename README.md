@@ -64,3 +64,8 @@ localhost:36000/stddev
 ```
 
 Funcionalidad:
+
+https://github.com/user-attachments/assets/3579342b-df83-4e9b-8648-659cf6fd1309
+
+---
+Docente: Daniel Benavides
