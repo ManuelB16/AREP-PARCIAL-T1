@@ -16,7 +16,7 @@ import java.util.HashMap;
 public class FacadeServer {
 
     private static final String USER_AGENT = "Mozilla/5.0";
-    private static final String BACKEND_URL = "http://localhost:35000";
+    private static final String BACKEND_URL = "https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=fb&apikey=Q1QZFVJQ21K7C6XM";
 
     public static void main(String[] args) throws IOException, URISyntaxException {
         ServerSocket serverSocket = null;
