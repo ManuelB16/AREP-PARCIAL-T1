@@ -4,7 +4,7 @@
     <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.class.path" value="C:\Users\manuel.barrera\my-app\target\test-classes;C:\Users\manuel.barrera\my-app\target\classes;C:\Users\manuel.barrera\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.11.0\junit-jupiter-api-5.11.0.jar;C:\Users\manuel.barrera\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\manuel.barrera\.m2\repository\org\junit\platform\junit-platform-commons\1.11.0\junit-platform-commons-1.11.0.jar;C:\Users\manuel.barrera\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\manuel.barrera\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.11.0\junit-jupiter-params-5.11.0.jar;"/>
+    <property name="java.class.path" value="C:\Users\manuel.barrera\Downloads\AREP-PARCIAL-T1\target\test-classes;C:\Users\manuel.barrera\Downloads\AREP-PARCIAL-T1\target\classes;C:\Users\manuel.barrera\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.11.0\junit-jupiter-api-5.11.0.jar;C:\Users\manuel.barrera\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\manuel.barrera\.m2\repository\org\junit\platform\junit-platform-commons\1.11.0\junit-platform-commons-1.11.0.jar;C:\Users\manuel.barrera\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\manuel.barrera\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.11.0\junit-jupiter-params-5.11.0.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -15,9 +15,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
-    <property name="sun.java.command" value="C:\Users\manuel.barrera\AppData\Local\Temp\surefire3622527817066488800\surefirebooter-20250910102347181_3.jar C:\Users\manuel.barrera\AppData\Local\Temp\surefire3622527817066488800 2025-09-10T10-23-47_005-jvmRun1 surefire-20250910102347181_1tmp surefire_0-20250910102347181_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\manuel.barrera\AppData\Local\Temp\surefire6565846135821496249\surefirebooter-20250910110841498_3.jar C:\Users\manuel.barrera\AppData\Local\Temp\surefire6565846135821496249 2025-09-10T11-08-41_345-jvmRun1 surefire-20250910110841498_1tmp surefire_0-20250910110841498_2tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="C:\Users\manuel.barrera\my-app\target\test-classes;C:\Users\manuel.barrera\my-app\target\classes;C:\Users\manuel.barrera\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.11.0\junit-jupiter-api-5.11.0.jar;C:\Users\manuel.barrera\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\manuel.barrera\.m2\repository\org\junit\platform\junit-platform-commons\1.11.0\junit-platform-commons-1.11.0.jar;C:\Users\manuel.barrera\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\manuel.barrera\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.11.0\junit-jupiter-params-5.11.0.jar;"/>
+    <property name="surefire.test.class.path" value="C:\Users\manuel.barrera\Downloads\AREP-PARCIAL-T1\target\test-classes;C:\Users\manuel.barrera\Downloads\AREP-PARCIAL-T1\target\classes;C:\Users\manuel.barrera\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.11.0\junit-jupiter-api-5.11.0.jar;C:\Users\manuel.barrera\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\manuel.barrera\.m2\repository\org\junit\platform\junit-platform-commons\1.11.0\junit-platform-commons-1.11.0.jar;C:\Users\manuel.barrera\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\manuel.barrera\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.11.0\junit-jupiter-params-5.11.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\manuel.barrera"/>
     <property name="user.language" value="en"/>
@@ -25,12 +25,12 @@
     <property name="java.version.date" value="2024-01-16"/>
     <property name="java.home" value="C:\Program Files\Java\jdk-17"/>
     <property name="file.separator" value="\"/>
-    <property name="basedir" value="C:\Users\manuel.barrera\my-app"/>
+    <property name="basedir" value="C:\Users\manuel.barrera\Downloads\AREP-PARCIAL-T1"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\manuel.barrera\AppData\Local\Temp\surefire3622527817066488800\surefirebooter-20250910102347181_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\manuel.barrera\AppData\Local\Temp\surefire6565846135821496249\surefirebooter-20250910110841498_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.10+11-LTS-240"/>
@@ -44,7 +44,7 @@
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
     <property name="java.io.tmpdir" value="C:\Users\MANUEL~1.BAR\AppData\Local\Temp\"/>
     <property name="java.version" value="17.0.10"/>
-    <property name="user.dir" value="C:\Users\manuel.barrera\my-app"/>
+    <property name="user.dir" value="C:\Users\manuel.barrera\Downloads\AREP-PARCIAL-T1"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
