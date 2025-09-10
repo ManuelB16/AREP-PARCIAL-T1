@@ -70,4 +70,4 @@ https://github.com/user-attachments/assets/3579342b-df83-4e9b-8648-659cf6fd1309
 ---
 Docente: Daniel Benavides
 
-Todos los derechos reservadps 2025.
+Todos los derechos reservados 2025.
